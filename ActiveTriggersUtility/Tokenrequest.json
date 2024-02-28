@@ -1,0 +1,5 @@
+{
+"grant_type": "refresh_token",
+"client_id": "<enter the client id from Admin-Tenant-Orchestrator-API Access>",
+"refresh_token": "<enter the user key from Admin-Tenant-Orchestrator-API Access>"
+}
